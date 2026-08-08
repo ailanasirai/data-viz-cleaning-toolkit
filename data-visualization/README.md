@@ -8,7 +8,7 @@ Seven exercises. Six real datasets. From a single-line FIFA ranking chart to a s
 
 | Course | Exercises | Certificate |
 |---|---|---|
-| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | 8 lessons / 7 graded exercises | [🎓 Earned](./certificate.png) |
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | 6 | [🎓 Earned](./certificate.png) |
 
 ## Exercise Breakdown
 
